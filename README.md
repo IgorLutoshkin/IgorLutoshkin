@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgorLutoshkin
 - 👀 I’m interested in frontend development
 - 🌱 I am currently going through an it-incubator sandbox
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I want to get practical skills in frontend development and am open to cooperation with anyone who will give such an opportunity
 - 📫 How to reach me ...
 
 <!---
